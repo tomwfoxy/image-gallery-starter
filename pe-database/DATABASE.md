@@ -18,7 +18,7 @@ _Generated from `firms.json` · last updated 2026-10-26 · 50 firms · 279 portf
 | [Chiltern Capital](#chiltern-capital) | London | £1m-£15m | Business services, Consumer services | 4 | 2026-10-26 |
 | [Connection Capital](#connection-capital) | London | £2m-£10m | Consumer, Business services, Financial services | 3 | 2026-10-26 |
 | [Dunedin](#dunedin) | Edinburgh | £10m-£50m | Business services, Financial services | 3 | 2026-10-26 |
-| [Elaghmore](#elaghmore) | London | £2m-£10m | Manufacturing, Industrials, Food, Consumer | 6 | 2026-10-26 |
+| [Elaghmore](#elaghmore) | Leamington Spa | £2m-£10m | Manufacturing, Industrials, Food, Consumer | 6 | 2026-10-26 |
 | [Elysian Capital](#elysian-capital) | London | £10m-£40m | Business services, Software, Industrials, Consumer | 9 | 2026-10-26 |
 | [Endless](#endless) | Leeds | £1m-£100m+ | Retail, Consumer, Industrials, Business services | 11 | 2026-10-26 |
 | [Fordhouse Equity](#fordhouse-equity) | London | £1m-£10m | Aerospace & defence, Accountancy, IT services, Telecoms, Software | 7 | 2026-10-26 |
@@ -301,7 +301,7 @@ Sources: <https://www.caplight.com/investor/dunedin> · <https://privateequityli
 
 <a id="elaghmore"></a>
 
-- **HQ / offices:** London (London)
+- **HQ / offices:** Leamington Spa (Leamington Spa)
 - **Website:** https://www.elaghmore.com
 - **Strategy:** Operationally-led investor in UK industrial and manufacturing SMEs, including turnarounds.
 - **Last checked:** 2026-10-26
@@ -315,7 +315,7 @@ Sources: <https://www.caplight.com/investor/dunedin> · <https://privateequityli
 | Orchard House Foods | Fresh fruit processing | Carve-out from Hain Celestial | 2021 | unverified |
 | Trutex | School uniforms | Sold to Hancock & Gore (1.8x) | 2025-08 | exited |
 
-Sources: <https://www.cbinsights.com/investor/elaghmore-partners> · <https://gateleyplc.com/insight/deals/advising-on-the-sale-of-component-manufacturer-formaplex-limited/> · <https://www.privateequitywire.co.uk/elaghmore-raises-gbp30m-pipeline-acquisition-opportunities-grows/>
+Sources: <https://www.cbinsights.com/investor/elaghmore-partners> · <https://gateleyplc.com/insight/deals/advising-on-the-sale-of-component-manufacturer-formaplex-limited/> · <https://www.privateequitywire.co.uk/elaghmore-raises-gbp30m-pipeline-acquisition-opportunities-grows/> · <https://www.privateequitywire.co.uk/elaghmore-expands-investment-team-two-new-hires/>
 
 ## Elysian Capital
 
