@@ -1,0 +1,274 @@
+{
+  "meta": {
+    "description": "UK-headquartered lower-mid-market private equity firms and their portfolio companies.",
+    "scope": "Firms headquartered and investing primarily in the UK, typically writing equity cheques of ~£2m-£50m into businesses with enterprise value of ~£5m-£150m (MBOs, MBIs, development capital, buy-and-build). Excludes pure VC, large-cap/upper-mid-market buyout houses and non-UK-headquartered funds.",
+    "last_updated": "2026-10-26",
+    "status_values": {
+      "active": "Held by the firm as of last_checked",
+      "exited": "Sold / realised (kept for history)",
+      "unverified": "Named in third-party sources but current status not confirmed"
+    }
+  },
+  "firms": [
+    {
+      "id": "yfm-equity-partners",
+      "name": "YFM Equity Partners",
+      "hq": "Leeds",
+      "offices": ["Leeds", "London", "Manchester", "Birmingham"],
+      "website": "https://www.yfmep.com",
+      "strategy": "Growth capital and MBOs for UK SMEs; manages the British Smaller Companies VCTs.",
+      "typical_cheque": "£2m-£15m",
+      "sectors": ["Technology", "Business services", "Consumer", "Industrials"],
+      "notes": "Completed a management buyout of the firm itself (advised by James Cowper Kreston, announced Jan 2026).",
+      "portfolio": [
+        {"name": "Summize", "sector": "Legal tech / contract management software", "deal": "Series B co-investor", "date": "2026-01", "status": "active"},
+        {"name": "TeamFeePay", "sector": "Sports club payments software", "deal": "Series A (new investor)", "date": "2026-01", "status": "active"},
+        {"name": "Omne", "sector": "B2B marketing agency", "deal": "MBO", "date": "2024-11", "status": "active"},
+        {"name": "Stacatruc", "sector": "Forklift truck distribution", "deal": "Buyout from Merino Capital", "date": null, "status": "unverified"},
+        {"name": "The Protein Works", "sector": "Sports nutrition", "deal": "MBO", "date": null, "status": "unverified"},
+        {"name": "Tonkotsu", "sector": "Restaurants", "deal": "Growth", "date": null, "status": "unverified"},
+        {"name": "Frescobol Carioca", "sector": "Menswear / lifestyle brand", "deal": "Growth", "date": null, "status": "unverified"},
+        {"name": "Arcus Global", "sector": "Public-sector SaaS", "deal": "Growth", "date": null, "status": "unverified"},
+        {"name": "Hutchinson Networks", "sector": "Network / cyber services", "deal": "Growth", "date": null, "status": "unverified"},
+        {"name": "Checkmate Fire Solutions", "sector": "Passive fire protection", "deal": "MBO", "date": null, "status": "unverified"}
+      ],
+      "sources": [
+        "https://www.cbinsights.com/company/yfm-equity-partners",
+        "https://ifamagazine.com/tag/yfm-equity-partners/",
+        "https://www.jamescowperkreston.co.uk/news/our-corporate-finance-team-advises-yfm-equity-partners-on-the-mbo-of-omne/",
+        "https://www.privateequitywire.co.uk/yfm-backs-buyout-of-forklift-distributor-stacatruc/"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "palatine-private-equity",
+      "name": "Palatine Private Equity",
+      "hq": "Manchester",
+      "offices": ["Manchester", "London", "Birmingham", "Leeds"],
+      "website": "https://www.palatinepe.com",
+      "strategy": "Lower-mid-market buyouts and growth; separate Impact fund.",
+      "typical_cheque": "£10m-£40m",
+      "fund": "Buyout Fund V, £254m (closed Apr 2025)",
+      "sectors": ["Business services", "Financial services", "Healthcare services", "Technology services"],
+      "portfolio": [
+        {"name": "Riches & Co", "sector": "Accountancy", "deal": "Investment", "date": "2026-07", "status": "active"},
+        {"name": "fulfilmentcrowd", "sector": "E-commerce fulfilment / logistics tech", "deal": "Majority stake (first Fund V deal)", "date": "2025-06", "status": "active"},
+        {"name": "Patchworks", "sector": "Integration software (iPaaS)", "deal": "Co-investor", "date": "2025-10", "status": "active"},
+        {"name": "ProFinda", "sector": "Workforce management software", "deal": "Lead investor", "date": "2025-05", "status": "active"},
+        {"name": "Bluprintx", "sector": "Digital transformation / marketing services", "deal": "Lead investor", "date": "2024-09", "status": "active"},
+        {"name": "Accounted For", "sector": "Accountancy", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "OryxAlign", "sector": "IT managed services", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "E.Quality Training", "sector": "Training / education", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "Anthesis Group", "sector": "Sustainability consultancy", "deal": "Sold to Carlyle (~6x)", "date": null, "status": "exited"}
+      ],
+      "sources": [
+        "https://pitchbook.com/profiles/investor/10628-92",
+        "https://www.caplight.com/investor/palatine-private-equity",
+        "https://gateleyplc.com/insight/deals/advising-palatine-private-equity-on-its-investment-in-fulfilmentcrowd/"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "northedge",
+      "name": "NorthEdge",
+      "hq": "Manchester",
+      "offices": ["Manchester", "Leeds", "Birmingham", "Newcastle"],
+      "website": "https://www.northedge.co.uk",
+      "strategy": "Lower-mid-market buyouts and growth capital for regional UK businesses.",
+      "typical_cheque": "£10m-£50m",
+      "fund": "NorthEdge IV (British Business Bank committed £60m, Feb 2026)",
+      "sectors": ["Technology", "Healthcare", "Business services", "Industrials", "Consumer"],
+      "portfolio": [
+        {"name": "Oak Engage", "sector": "Employee engagement software", "deal": "Investment", "date": "2025-07", "status": "active"},
+        {"name": "Latus Group", "sector": "Healthcare services", "deal": "Lead investor", "date": "2024-07", "status": "active"},
+        {"name": "Rouken Bio", "sector": "Life-science research services", "deal": "Investment", "date": "2023-11", "status": "active"},
+        {"name": "CloudM", "sector": "SaaS / data migration", "deal": "Investment", "date": "2023-01", "status": "active"},
+        {"name": "Friend MTS", "sector": "Anti-piracy / content protection", "deal": "Investment", "date": "2022-09", "status": "unverified"},
+        {"name": "Cezanne HR", "sector": "HR software", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "Accrol", "sector": "Tissue manufacturing", "deal": "£66m deal", "date": null, "status": "unverified"}
+      ],
+      "sources": [
+        "https://www.caplight.com/investor/northedge",
+        "https://ffnews.com/news/northedge-oak-engage-investment",
+        "https://privateequitylist.com/investors/northedge-capital-llp"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "kester-capital",
+      "name": "Kester Capital",
+      "hq": "London",
+      "offices": ["London"],
+      "website": "https://www.kestercapital.com",
+      "strategy": "Lower-mid-market buyouts in technology, healthcare and data & information.",
+      "typical_cheque": "£5m-£25m",
+      "fund": "Kester Capital III, £200m hard cap (Mar 2024)",
+      "sectors": ["Technology", "Healthcare", "Data & information"],
+      "portfolio": [
+        {"name": "Nutritics", "sector": "Food & nutrition software", "deal": "Growth equity (lead)", "date": "2026-01", "status": "active"},
+        {"name": "Addresscloud", "sector": "Geocoding / property data", "deal": "Investment", "date": "2025-09", "status": "active"},
+        {"name": "Re-flow", "sector": "Field service management software", "deal": "Investment (5th from Fund III)", "date": "2025-03", "status": "active"},
+        {"name": "Evestia Clinical", "sector": "Clinical research (CRO)", "deal": "Investment", "date": "2024-12", "status": "active"},
+        {"name": "The Boundary", "sector": "Real-estate visualisation / digital twins", "deal": "Investment (3rd from Fund III)", "date": "2024-07", "status": "active"},
+        {"name": "DC Byte", "sector": "Data-centre market intelligence", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "Vixio", "sector": "Regulatory intelligence", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "Atec", "sector": "Technology", "deal": "Exit (>4x)", "date": null, "status": "exited"}
+      ],
+      "sources": [
+        "https://www.caplight.com/investor/kestercapital",
+        "https://www.alantra.com/ib-transaction/kester-capital-buy-side-advisory-debt-advisory-the-boundary/",
+        "https://www.simmons-simmons.com/en/about-us/news/simmons-advises-pe-firm-kester-on-backing-of-software-provider-re-flow"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "elaghmore",
+      "name": "Elaghmore",
+      "hq": "London",
+      "offices": ["London"],
+      "website": "https://www.elaghmore.com",
+      "strategy": "Operationally-led investor in UK industrial and manufacturing SMEs, including turnarounds.",
+      "typical_cheque": "£2m-£10m",
+      "sectors": ["Manufacturing", "Industrials", "Food", "Consumer"],
+      "portfolio": [
+        {"name": "TVS Interfleet", "sector": "Commercial vehicle manufacturing", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "Wilcox Commercial Vehicles", "sector": "Trailer bodies", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "Formaplex", "sector": "Lightweight composite components", "deal": "Acquisition", "date": "2021", "status": "unverified"},
+        {"name": "English Architectural Glazing", "sector": "Facades", "deal": "Acquisition", "date": null, "status": "unverified"},
+        {"name": "Orchard House Foods", "sector": "Fresh fruit processing", "deal": "Carve-out from Hain Celestial", "date": "2021", "status": "unverified"},
+        {"name": "Trutex", "sector": "School uniforms", "deal": "Sold to Hancock & Gore (1.8x)", "date": "2025-08", "status": "exited"}
+      ],
+      "sources": [
+        "https://www.cbinsights.com/investor/elaghmore-partners",
+        "https://gateleyplc.com/insight/deals/advising-on-the-sale-of-component-manufacturer-formaplex-limited/",
+        "https://www.privateequitywire.co.uk/elaghmore-raises-gbp30m-pipeline-acquisition-opportunities-grows/"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "horizon-capital",
+      "name": "Horizon Capital",
+      "hq": "London",
+      "offices": ["London"],
+      "website": "https://www.horizoncapital.co.uk",
+      "strategy": "Buy-and-build investor (formerly Lyceum Capital).",
+      "typical_cheque": "£5m-£50m",
+      "sectors": ["Business services", "Technology", "Professional services"],
+      "portfolio": [
+        {"name": "Threatscape", "sector": "Cyber security consultancy (UK & Ireland)", "deal": "Buy-and-build investment", "date": "2026-03", "status": "active"},
+        {"name": "ERA Group", "sector": "Cost-reduction consultancy", "deal": "Majority stake, £70m commitment", "date": "2025-07", "status": "active"},
+        {"name": "Turnmill", "sector": "Financial-services events", "deal": "Buy-and-build", "date": null, "status": "active"},
+        {"name": "Ridge and Partners", "sector": "Built-environment consultancy", "deal": "Buy-and-build", "date": null, "status": "active"},
+        {"name": "Dains", "sector": "Accountancy", "deal": "Realised, 8x", "date": "2025-02", "status": "exited"}
+      ],
+      "sources": [
+        "https://www.horizoncapital.co.uk/?p=7335",
+        "https://privateequitylist.com/investors/hor-cap-llp"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "queens-park-equity",
+      "name": "Queen's Park Equity",
+      "hq": "London",
+      "offices": ["London"],
+      "website": "https://www.qpequity.com",
+      "strategy": "Founder-focused buy-and-build investor.",
+      "typical_cheque": "£10m-£40m",
+      "fund": "QPE Fund II, £305m (Apr 2025); Fund I £185m (Dec 2020)",
+      "sectors": ["Education", "Health & pharma", "Tech & business services"],
+      "portfolio": [
+        {"name": "Canford Law", "sector": "Legal services", "deal": "Lead investor", "date": "2025-12", "status": "active"},
+        {"name": "Maxx Solutions", "sector": "Life-sciences compliance software (Germany)", "deal": "Platform", "date": null, "status": "unverified"},
+        {"name": "TWINKIDS", "sector": "Nurseries / early-years education", "deal": "Platform", "date": null, "status": "unverified"},
+        {"name": "Encore", "sector": "Building-safety / property services", "deal": "MBO (3rd Fund I platform)", "date": null, "status": "unverified"},
+        {"name": "DCSL Software", "sector": "Bespoke software development", "deal": "Significant investment", "date": null, "status": "unverified"},
+        {"name": "TelcoSwitch", "sector": "Telecoms software", "deal": "Investment", "date": "2022", "status": "unverified"},
+        {"name": "Blue Ribbon Health and Wellbeing", "sector": "Healthcare", "deal": "Investment", "date": "2022", "status": "unverified"}
+      ],
+      "sources": [
+        "https://pitchbook.com/profiles/investor/434714-41",
+        "https://www.lw.com/en/news/latham-advises-queens-park-equity-in-305-million-fund-formation",
+        "https://www.lincolninternational.com/transactions/queens-park-equity-has-made-a-significant-investment-into-dcsl-software/"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "maven-capital-partners",
+      "name": "Maven Capital Partners",
+      "hq": "Glasgow",
+      "offices": ["Glasgow", "London", "Manchester", "Birmingham", "Leeds", "Newcastle", "Bristol"],
+      "website": "https://www.mavencp.com",
+      "strategy": "Regional MBOs, growth equity and VCT investing; Management Buyout Fund II.",
+      "typical_cheque": "£5m-£15m (MBO fund); EV £10m-£40m",
+      "sectors": ["Technology", "Business services", "Cyber security", "Financial services", "Healthcare", "Manufacturing"],
+      "portfolio": [
+        {"name": "Digital Rewards Group", "sector": "Employee rewards / incentives", "deal": "MBO Fund II investment", "date": "2025", "status": "active"},
+        {"name": "Calatherm", "sector": "Calibration / thermal testing services", "deal": "MBO", "date": "2025-03", "status": "active"},
+        {"name": "UAP", "sector": "Architectural hardware", "deal": "£20m MBO", "date": "2018", "status": "unverified"}
+      ],
+      "sources": [
+        "https://www.mavencp.com/latest-news/archive/2025",
+        "https://www.cbinsights.com/investor/maven-capital-partners",
+        "https://www.unquote.com/uk/official-record/3011563/maven-completes-gbp20m-mbo-of-uap"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "rutland-partners",
+      "name": "Rutland Partners",
+      "hq": "London",
+      "offices": ["London"],
+      "website": "https://rutlandpartners.com",
+      "strategy": "Special situations / operational change; companies valued ~£20m-£200m.",
+      "typical_cheque": "£10m-£50m",
+      "sectors": ["Industrials", "Consumer", "Business services", "Healthcare"],
+      "portfolio": [
+        {"name": "Walstead Group", "sector": "Commercial printing", "deal": "Majority stake (2016); exit reportedly explored Jun 2025", "date": "2016", "status": "active"},
+        {"name": "The Music Group", "sector": "Musical instruments retail", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "Wolstenholme", "sector": "Metallic pigments", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "Advantage Healthcare Group", "sector": "Healthcare staffing", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "CeDo", "sector": "Household consumer products", "deal": "Sold to Stratco Investments", "date": null, "status": "exited"}
+      ],
+      "sources": [
+        "https://www.cbinsights.com/investor/rutland-partners",
+        "https://www.lincolninternational.com/?p=95520",
+        "https://privsource.com/private-equity-firms/rutland-partners-kXt8qk"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "mobeus-equity-partners",
+      "name": "Mobeus Equity Partners",
+      "hq": "London",
+      "offices": ["London"],
+      "website": "https://www.mobeus.co.uk",
+      "strategy": "Growth capital and MBOs for UK SMEs, £2m-£15m.",
+      "typical_cheque": "£2m-£15m",
+      "sectors": ["Generalist"],
+      "notes": "Mobeus's VCT management business moved to Gresham House in 2021; confirm the firm's current independent status during the next news scan.",
+      "portfolio": [
+        {"name": "Big Potato Games", "sector": "Party / board games", "deal": "£16.2m minority investment", "date": null, "status": "unverified"},
+        {"name": "Revive!", "sector": "Vehicle repair franchise", "deal": "Investment", "date": null, "status": "unverified"},
+        {"name": "Intralink Group", "sector": "International market-entry consultancy", "deal": "Investment", "date": "2023-07", "status": "unverified"},
+        {"name": "MyTutor", "sector": "Online tutoring", "deal": "Investment", "date": null, "status": "unverified"}
+      ],
+      "sources": [
+        "https://www.caplight.com/investor/mobeus-co",
+        "https://www.imap.com/es-es/transactions/mobeus-equity-partners-revive-uk~t",
+        "https://www.cbinsights.com/investor/mobeus-equity-partners"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    }
+  ]
+}
