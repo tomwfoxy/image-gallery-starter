@@ -15,7 +15,6 @@ bottom of the queue so it never runs dry.
 - Caledonia Private Capital (check fit)
 - Niyamo Capital
 - Scottish Equity Partners (check fit: growth VC)
-- NVM / Northern Venture Trust (check whether now part of Mercia)
 - Business Enterprise Fund / regional NPIF equity managers (research names)
 - ESO Capital (special situations; check for defence deals)
 - Cambridge Capital Partners (ABCA co-investor)
