@@ -1,11 +1,12 @@
 # UK Lower-Mid-Market Private Equity Database
 
-_Generated from `firms.json` · last updated 2026-10-26 · 40 firms · 232 portfolio companies_
+_Generated from `firms.json` · last updated 2026-10-26 · 50 firms · 279 portfolio companies_
 
 **Scope:** Firms headquartered and investing primarily in the UK, typically writing equity cheques of ~£2m-£50m into businesses with enterprise value of ~£5m-£150m (MBOs, MBIs, development capital, buy-and-build). Excludes pure VC, large-cap/upper-mid-market buyout houses and non-UK-headquartered funds.
 
 | Firm | HQ | Typical cheque | Sectors | Portfolio cos | Added |
 |---|---|---|---|---|---|
+| [Alcuin Capital Partners](#alcuin-capital) | London | £2m-£30m | Specialist manufacturing, Transport, Technology, Consumer, Business services | 5 | 2026-10-26 |
 | [Aliter Capital](#aliter-capital) | London | up to £20m | Business services, Legal, Technology, Healthcare | 6 | 2026-10-26 |
 | [Apiary Capital](#apiary-capital) | London | £10m-£40m | Business services, Technology, Financial services, Education | 7 | 2026-10-26 |
 | [August Equity](#august-equity) | London | £10m-£40m | Healthcare, Support services, Technology, Financial services | 6 | 2026-10-26 |
@@ -20,19 +21,26 @@ _Generated from `firms.json` · last updated 2026-10-26 · 40 firms · 232 portf
 | [Elaghmore](#elaghmore) | London | £2m-£10m | Manufacturing, Industrials, Food, Consumer | 6 | 2026-10-26 |
 | [Elysian Capital](#elysian-capital) | London | £10m-£40m | Business services, Software, Industrials, Consumer | 9 | 2026-10-26 |
 | [Endless](#endless) | Leeds | £1m-£100m+ | Retail, Consumer, Industrials, Business services | 11 | 2026-10-26 |
+| [Fordhouse Equity](#fordhouse-equity) | London | £1m-£10m | Aerospace & defence, Accountancy, IT services, Telecoms, Software | 7 | 2026-10-26 |
 | [Foresight Group (Private Equity)](#foresight-group) | London | £1m-£15m | Technology, Healthcare, Industrials, Defence, Food & beverage | 5 | 2026-10-26 |
 | [Gresham House (Private Equity)](#gresham-house-private-equity) | London | £1m-£25m | Software, Consumer, Healthcare, Fintech, Cyber security | 3 | 2026-10-26 |
-| [Growth Capital Partners (GCP)](#growth-capital-partners) | London | £5m-£40m | Technology, Business services, Financial services, Industrials | 8 | 2026-10-26 |
+| [Growth Capital Partners (GCP)](#growth-capital-partners) | London | £5m-£40m | Technology, Business services, Financial services, Industrials | 9 | 2026-10-26 |
 | [Hamilton Bradshaw](#hamilton-bradshaw) | London | £1m-£10m | Recruitment, Business services, Healthcare services, Real estate | 3 | 2026-10-26 |
-| [Horizon Capital](#horizon-capital) | London | £5m-£50m | Business services, Technology, Professional services | 5 | 2026-10-26 |
+| [Hanover Investors](#hanover-investors) | London | £5m-£30m | Defence & aerospace, Precision engineering, Energy distribution, Business services | 2 | 2026-10-26 |
+| [Harwood Private Equity](#harwood-private-equity) | London | £5m-£30m | Manufacturing, Precision engineering, TMT, Healthcare, Financial services | 5 | 2026-10-26 |
+| [Horizon Capital](#horizon-capital) | London | £5m-£50m | Business services, Technology, Professional services | 6 | 2026-10-26 |
 | [Imbiba](#imbiba) | London | £2m-£10m | Leisure, Hospitality, Childcare | 9 | 2026-10-26 |
+| [Inspirit Capital](#inspirit-capital) | London | £5m-£30m | Industrial distribution, Energy, Education, Business services | 4 | 2026-10-26 |
 | [Kester Capital](#kester-capital) | London | £5m-£25m | Technology, Healthcare, Data & information | 8 | 2026-10-26 |
-| [Limerston Capital](#limerston-capital) | London | £10m-£40m | Healthcare, Life sciences, Leisure, Technology | 8 | 2026-10-26 |
+| [LDC](#ldc) | London | £10m-£50m (initial) | Aerospace & defence, Industrials, Business services, Technology, Healthcare | 2 | 2026-10-26 |
+| [Limerston Capital](#limerston-capital) | London | £10m-£40m | Healthcare, Life sciences, Leisure, Technology | 9 | 2026-10-26 |
 | [Literacy Capital](#literacy-capital) | London | £2m-£20m | Generalist, Business services, Food, Consumer | 6 | 2026-10-26 |
 | [Lonsdale Capital Partners](#lonsdale-capital-partners) | London | £10m-£20m | Business services, Healthcare, Generalist | 8 | 2026-10-26 |
 | [Maven Capital Partners](#maven-capital-partners) | Glasgow | £5m-£15m (MBO fund); EV £10m-£40m | Technology, Business services, Cyber security, Financial services, Healthcare, Manufacturing | 3 | 2026-10-26 |
 | [Mobeus Equity Partners](#mobeus-equity-partners) | London | £2m-£15m | Generalist | 4 | 2026-10-26 |
+| [Next Wave Partners](#next-wave-partners) | London | £2m-£20m | Manufacturing, Building products, Business services | 3 | 2026-10-26 |
 | [NorthEdge](#northedge) | Manchester | £10m-£50m | Technology, Healthcare, Business services, Industrials, Consumer | 7 | 2026-10-26 |
+| [NVM Private Equity](#nvm-private-equity) | Newcastle | £1m-£15m | Industrials, Engineering, Technology, Consumer, Business services | 4 | 2026-10-26 |
 | [Palatine Private Equity](#palatine-private-equity) | Manchester | £10m-£40m | Business services, Financial services, Healthcare services, Technology services | 9 | 2026-10-26 |
 | [Panoramic Growth Equity](#panoramic-growth-equity) | London | £2m-£10m | Generalist, Healthcare, Technology, Consumer | 4 | 2026-10-26 |
 | [Piper](#piper-private-equity) | London | £5m-£25m | Consumer, Food & beverage, Beauty, Hospitality, Wellness | 5 | 2026-10-26 |
@@ -41,11 +49,32 @@ _Generated from `firms.json` · last updated 2026-10-26 · 40 firms · 232 portf
 | [Rcapital](#rcapital) | London | £1m-£20m | Industrials, Chemicals, Manufacturing, Consumer | 1 | 2026-10-26 |
 | [Rockpool Investments](#rockpool-investments) | London | £2m-£15m | Business services, Healthcare, Technology, Consumer | 8 | 2026-10-26 |
 | [Rutland Partners](#rutland-partners) | London | £10m-£50m | Industrials, Consumer, Business services, Healthcare | 5 | 2026-10-26 |
-| [Souter Investments](#souter-investments) | Edinburgh | £2m-£20m | Industrials, Financial services, Business services, TMT, Consumer, Healthcare, Energy, Education | 8 | 2026-10-26 |
+| [Souter Investments](#souter-investments) | Edinburgh | £2m-£20m | Industrials, Financial services, Business services, TMT, Consumer, Healthcare, Energy, Education | 9 | 2026-10-26 |
 | [Sovereign Capital Partners](#sovereign-capital-partners) | London | £10m-£50m | Business & technology services, Healthcare, Financial services, Education | 1 | 2026-10-26 |
+| [Sullivan Street Partners](#sullivan-street-partners) | London | £10m-£50m | Aerospace & defence, Industrials, Consumer, Healthcare, Business services, Facilities | 8 | 2026-10-26 |
+| [Trimountain Partners](#trimountain-partners) | London | £5m-£20m | Fire & security, Facilities management, Consumer, Education | 3 | 2026-10-26 |
 | [Vespa Capital](#vespa-capital) | London | £5m-£20m | Business services, Technology, Legal | 5 | 2026-10-26 |
 | [WestBridge Capital](#westbridge-capital) | London | £10m-£40m | Business services, Software, Healthcare, Engineering | 5 | 2026-10-26 |
 | [YFM Equity Partners](#yfm-equity-partners) | Leeds | £2m-£15m | Technology, Business services, Consumer, Industrials | 10 | 2026-10-26 |
+
+## Alcuin Capital Partners
+
+<a id="alcuin-capital"></a>
+
+- **HQ / offices:** London (London)
+- **Website:** https://www.alcuincapital.com
+- **Strategy:** Growth capital and MBOs in UK lower-mid-market companies; often minority, sometimes debt-free.
+- **Last checked:** 2026-10-26
+
+| Company | Sector | Deal | Date | Status |
+|---|---|---|---|---|
+| SF Engineering | Food processing & packaging line engineering | Investment | 2024-12 | active |
+| Mainprize Offshore | Offshore wind vessel services | Investment | 2024-02 | active |
+| Air Charter Service | Aviation charter | Minority growth stake |  | unverified |
+| Servelec Controls | Industrial control systems | MBO from Servelec Group | 2018 | unverified |
+| Koh Group | Business services | Debt-free MBO, minority stake |  | unverified |
+
+Sources: <https://www.cbinsights.com/investor/alcuin-capital-partners> · <https://www.unquote.com/uk/official-record/3012931/alcuin-invests-in-servelec-controls-mbo> · <https://www.aircargoweek.com/?p=11261>
 
 ## Aliter Capital
 
@@ -240,6 +269,7 @@ Sources: <https://www.cbinsights.com/investor/chiltern-capital> · <https://alts
 - **HQ / offices:** London (London)
 - **Website:** 
 - **Strategy:** Syndicates private investors into direct private equity deals, plus property and alternatives funds.
+- **Notes:** Published a defence investment thesis (Aug 2026) focused on cyber, secure comms, advanced manufacturing and dual-use tech.
 - **Last checked:** 2026-10-26
 
 | Company | Sector | Deal | Date | Status |
@@ -248,7 +278,7 @@ Sources: <https://www.cbinsights.com/investor/chiltern-capital> · <https://alts
 | Virgin Wines | Online wine retail | Investment |  | unverified |
 | 235 Degrees | Coffee shops | Investment |  | unverified |
 
-Sources: <https://privateequitylist.com/investors/connection-capital-llp> · <https://www.cbinsights.com/company/connection-capital>
+Sources: <https://privateequitylist.com/investors/connection-capital-llp> · <https://www.cbinsights.com/company/connection-capital> · <https://www.connectioncapital.co.uk/news/defence-investing-beyond-the-headlines/>
 
 ## Dunedin
 
@@ -338,6 +368,27 @@ Sources: <https://altss.com/profile/elysian-capital.md> · <https://hub.waveup.c
 
 Sources: <https://endlessllp.com/news/endless-celebrates-20th-anniversary-with-stellar-year-targets-further-investments-into-yorkshire-businesses-in-2026/> · <https://privateequitylist.com/investors/endless-llp> · <https://www.yorkshirepost.co.uk/business/exclusive-endless-lining-up-ps400m-fund-1834253>
 
+## Fordhouse Equity
+
+<a id="fordhouse-equity"></a>
+
+- **HQ / offices:** London (London)
+- **Website:** 
+- **Strategy:** Acquires and develops UK SMEs; buy-and-build platforms.
+- **Last checked:** 2026-10-26
+
+| Company | Sector | Deal | Date | Status |
+|---|---|---|---|---|
+| Automatic Industrial Machines (AIM) | Aerospace & defence machining (Airbus, BAE, GKN customers) | Platform for UK consolidation | 2026-04 | active |
+| Wilson Partners | Accountancy | Equity partner (with Triple Point credit) | 2025-10 | active |
+| Peplows | Accountancy | Investment |  | unverified |
+| Afford Bond | Accountancy | Investment |  | unverified |
+| Lindeyer Francis Ferguson | Accountancy | Investment |  | unverified |
+| Atmos Consulting | Environmental consultancy | Exit | 2025-10 | exited |
+| Zenzero Solutions | IT managed services | Sold to Macquarie (via Fordhouse Capital LLP) | 2023 | exited |
+
+Sources: <https://pitchbook.com/profiles/investor/115214-05> · <https://www.cbinsights.com/investor/fordhouse-equity> · <https://www.insidermedia.com/news/south-west/precision-engineering-firm-acquired-by-private-equity-backed-investment-group>
+
 ## Foresight Group (Private Equity)
 
 <a id="foresight-group"></a>
@@ -346,6 +397,7 @@ Sources: <https://endlessllp.com/news/endless-celebrates-20th-anniversary-with-s
 - **Website:** https://foresight.group
 - **Strategy:** Regional SME growth and buyout funds, VCTs and listed trusts.
 - **Current fund:** Private Equity AUM £1.9bn (FY26); 16 active regional funds
+- **Notes:** Runs a dedicated Security & Resilience strategy (defence re-industrialisation, sovereign supply chains, dual-use tech).
 - **Last checked:** 2026-10-26
 
 | Company | Sector | Deal | Date | Status |
@@ -356,7 +408,7 @@ Sources: <https://endlessllp.com/news/endless-celebrates-20th-anniversary-with-s
 | TES Group | Engineering services (Northern Ireland) | Sold, 4x | 2026 | exited |
 | Fieldway | Built-environment services | Sold to Axis CLC | 2026 | exited |
 
-Sources: <https://foresight.group/news-insights/news/2026/foresight-private-equity-marks-strong-first-half-of-2026-with-11-investments-and-three-exits/> · <https://www.scottishfinancialnews.com/articles/foresight-delivers-strong-h1-2026-with-11-new-investments-and-three-exits> · <https://www.uktech.news/news/foresight-group-marks-strong-h1-with-11-investments-and-three-exits-20260727>
+Sources: <https://foresight.group/news-insights/news/2026/foresight-private-equity-marks-strong-first-half-of-2026-with-11-investments-and-three-exits/> · <https://www.scottishfinancialnews.com/articles/foresight-delivers-strong-h1-2026-with-11-new-investments-and-three-exits> · <https://www.uktech.news/news/foresight-group-marks-strong-h1-with-11-investments-and-three-exits-20260727> · <https://foresight.group/strategies-funds/private-markets/security-resilience/>
 
 ## Gresham House (Private Equity)
 
@@ -388,6 +440,7 @@ Sources: <https://funds-europe.com/gresham-house-ventures-appoints-head-of-portf
 
 | Company | Sector | Deal | Date | Status |
 |---|---|---|---|---|
+| Security HQ | Managed cyber security (MDR/SOC) | Platform investment | 2026 | active |
 | Optima Partners | AI & data consultancy | Investment | 2025-12 | active |
 | Strata FSC | Financial services consultancy (Aladdin) | Investment | 2025-12 | active |
 | Nurtur | Estate-agency software & data | Investment | 2025-07 | active |
@@ -397,7 +450,7 @@ Sources: <https://funds-europe.com/gresham-house-ventures-appoints-head-of-portf
 | Bridewell | Cyber security | Realised, 9.3x | 2025-02 | exited |
 | Hippo | Digital services | Realised | 2025-03 | exited |
 
-Sources: <https://www.growthcapital.co.uk/?p=11257> · <https://www.growthcapital.co.uk/portfolio-news/> · <https://www.privsource.com/acquisitions/deal/rJS7pZ>
+Sources: <https://www.growthcapital.co.uk/?p=11257> · <https://www.growthcapital.co.uk/portfolio-news/> · <https://www.privsource.com/acquisitions/deal/rJS7pZ> · <https://www.financierworldwide.com/resurgent-uk-defence-ma-hits-record-pace>
 
 ## Hamilton Bradshaw
 
@@ -416,6 +469,43 @@ Sources: <https://www.growthcapital.co.uk/?p=11257> · <https://www.growthcapita
 
 Sources: <https://en.wikipedia.org/wiki/Hamilton_Bradshaw> · <https://www.caplight.com/investor/hamiltonbradshaw> · <https://www.oaklins.com/case-study.html?did=33748>
 
+## Hanover Investors
+
+<a id="hanover-investors"></a>
+
+- **HQ / offices:** London (London)
+- **Website:** 
+- **Strategy:** Active-equity investor in UK small caps (public and private), often taking control.
+- **Current fund:** Hanover Active Equity Fund III (£150m second close)
+- **Last checked:** 2026-10-26
+
+| Company | Sector | Deal | Date | Status |
+|---|---|---|---|---|
+| Llanelec Precision Engineering | Precision-machined defence & aerospace components | Fund III acquisition; bought Kigass Aero Components (Aug 2026) | 2026-08 | active |
+| New Era Energy | Liquid fuels distribution & environmental services | Fund III significant investment | 2024-02 | active |
+
+Sources: <https://www.privsource.com/acquisitions/deal/MySZ9v> · <https://www.midlandsaerospace.org.uk/news/Kigass-Aug26> · <https://www.privateequitywire.co.uk/?p=97488>
+
+## Harwood Private Equity
+
+<a id="harwood-private-equity"></a>
+
+- **HQ / offices:** London (London)
+- **Website:** https://harwoodpe.co.uk
+- **Strategy:** Low-leverage buyouts and take-privates of undervalued UK companies valued up to ~£50m; part of Harwood Capital Management.
+- **Current fund:** Harwood Private Equity V (EV £15m-£50m)
+- **Last checked:** 2026-10-26
+
+| Company | Sector | Deal | Date | Status |
+|---|---|---|---|---|
+| Frenkel Topping | Financial advice (personal injury) | £64m take-private agreed (completion to confirm) | 2025-10 | unverified |
+| Mr. Fothergill's Seeds | Horticulture | MBO via Harwood Private Capital (£20m OakNorth facility) |  | unverified |
+| Crest Foods | Food | Fund V investment |  | unverified |
+| SMT Corp. | Manufacturing | Fund V investment |  | unverified |
+| Medica Packaging | Pharma & healthcare packaging | MBO, bought from Sullivan Street | 2024-12 | active |
+
+Sources: <https://www.cbinsights.com/investor/harwood-private-equity> · <https://pitchbook.com/profiles/fund/16872-58F> · <https://www.fespa.com/en/news-media/medica-packaging-confirms-management-buyout> · <https://oaknorth.co.uk/press/oaknorth-bank-funds-harwood-private-capital/>
+
 ## Horizon Capital
 
 <a id="horizon-capital"></a>
@@ -427,13 +517,14 @@ Sources: <https://en.wikipedia.org/wiki/Hamilton_Bradshaw> · <https://www.capli
 
 | Company | Sector | Deal | Date | Status |
 |---|---|---|---|---|
+| Churches Fire & Security | Fire & security services | Buy-and-build since 2017 (49 add-ons) | 2017 | active |
 | Threatscape | Cyber security consultancy (UK & Ireland) | Buy-and-build investment | 2026-03 | active |
 | ERA Group | Cost-reduction consultancy | Majority stake, £70m commitment | 2025-07 | active |
 | Turnmill | Financial-services events | Buy-and-build |  | active |
 | Ridge and Partners | Built-environment consultancy | Buy-and-build |  | active |
 | Dains | Accountancy | Realised, 8x | 2025-02 | exited |
 
-Sources: <https://www.horizoncapital.co.uk/?p=7335> · <https://privateequitylist.com/investors/hor-cap-llp>
+Sources: <https://www.horizoncapital.co.uk/?p=7335> · <https://privateequitylist.com/investors/hor-cap-llp> · <https://securitybusinessforsale.co.uk/market>
 
 ## Imbiba
 
@@ -459,6 +550,24 @@ Sources: <https://www.horizoncapital.co.uk/?p=7335> · <https://privateequitylis
 
 Sources: <https://www.british-business-bank.co.uk/press-release/imbiba-completes-first-close-of-90m-investment-fund-to-support-the-uks-leading-leisure-lifestyle-and-entertainment-growth-brands> · <https://thecaterer.com/news/imbiba-first-close-90-million-investment-fund-little-houses> · <https://www.cbinsights.com/investor/imbiba>
 
+## Inspirit Capital
+
+<a id="inspirit-capital"></a>
+
+- **HQ / offices:** London (London)
+- **Website:** 
+- **Strategy:** Corporate carve-outs of non-core divisions from larger groups.
+- **Last checked:** 2026-10-26
+
+| Company | Sector | Deal | Date | Status |
+|---|---|---|---|---|
+| Kaplan Languages Group | Language education | Carve-out from Kaplan | 2026-05 | active |
+| Watson Fuels | Fuel distribution | Carve-out from World Kinect (£75m facility) | 2025-04 | active |
+| mthree / Peregrine | Tech talent & consultancy | Carve-out from Wiley (2024); merged with Peregrine Dec 2025 | 2025-12 | active |
+| Spaldings | Agricultural parts distribution | Sold to Invicta Holdings | 2025-09 | exited |
+
+Sources: <https://pulse2.com/inspirit-capital-completes-acquisition-of-kaplan-languages-group/amp/> · <https://finder.techleap.nl/news/feed/inspirit-capital-acquires-watson-fuels-75m-deal> · <https://www.oaklins.com/bg/en/deals/111245/> · <https://www.cbinsights.com/company/inspirit-capital>
+
 ## Kester Capital
 
 <a id="kester-capital"></a>
@@ -482,6 +591,24 @@ Sources: <https://www.british-business-bank.co.uk/press-release/imbiba-completes
 
 Sources: <https://www.caplight.com/investor/kestercapital> · <https://www.alantra.com/ib-transaction/kester-capital-buy-side-advisory-debt-advisory-the-boundary/> · <https://www.simmons-simmons.com/en/about-us/news/simmons-advises-pe-firm-kester-on-backing-of-software-provider-re-flow>
 
+## LDC
+
+<a id="ldc"></a>
+
+- **HQ / offices:** London (London, Birmingham, Bristol, Cambridge, Leeds, Manchester, Newcastle, Nottingham, Reading, Glasgow)
+- **Website:** https://www.ldc.co.uk
+- **Strategy:** Lloyds Banking Group's PE arm; regional buyouts and growth deals.
+- **Current fund:** Balance-sheet backed; ~£400m a year
+- **Notes:** Upper end of scope; large regional portfolio, only defence-relevant and recent deals listed.
+- **Last checked:** 2026-10-26
+
+| Company | Sector | Deal | Date | Status |
+|---|---|---|---|---|
+| Eagle Eye Innovations | Drone training, operations & consulting | Investment backing management | 2026-02 | active |
+| Mi Hub | Corporate uniforms | Sold to Sullivan Street | 2026-04 | exited |
+
+Sources: <https://www.ldc.co.uk/portfolio/eagle-eye-innovations-scaling-drone-services/> · <https://businesscloud.co.uk/news/eagle-eye-innovations-secures-private-equity-investment/> · <https://altss.com/profile/ldc>
+
 ## Limerston Capital
 
 <a id="limerston-capital"></a>
@@ -495,6 +622,7 @@ Sources: <https://www.caplight.com/investor/kestercapital> · <https://www.alant
 | Company | Sector | Deal | Date | Status |
 |---|---|---|---|---|
 | DigitalXRAID | Managed cyber security | Acquisition | 2025-07 | active |
+| Xypher (Aristi, CyberCrowd, DigitalXRAID, Inta Forensics) | Cyber security platform | Acquired Aristi into the Xypher platform | 2025-12 | active |
 | Largo Leisure | Holiday parks (Scotland) | First Fund II platform |  | active |
 | Concept Life Sciences | Drug discovery CRO/CDMO | Fund II acquisition |  | active |
 | Astoriom | Pharma stability storage | Fund II investment |  | active |
@@ -585,6 +713,23 @@ Sources: <https://www.mavencp.com/latest-news/archive/2025> · <https://www.cbin
 
 Sources: <https://www.caplight.com/investor/mobeus-co> · <https://www.imap.com/es-es/transactions/mobeus-equity-partners-revive-uk~t> · <https://www.cbinsights.com/investor/mobeus-equity-partners>
 
+## Next Wave Partners
+
+<a id="next-wave-partners"></a>
+
+- **HQ / offices:** London (London)
+- **Website:** 
+- **Strategy:** Growth capital for UK and Northern European lower-mid-market SMEs.
+- **Last checked:** 2026-10-26
+
+| Company | Sector | Deal | Date | Status |
+|---|---|---|---|---|
+| Roof-Maker | Rooflight & skylight manufacturing | First investment from new fund |  | unverified |
+| Clearway Group | Site security & property services | Lead investor | 2021-09 | unverified |
+| Secured Mail | Mail security solutions | Expansion capital |  | unverified |
+
+Sources: <https://www.lincolninternational.com/transactions/next-wave-partners-acquired-roof-maker/> · <https://www.cbinsights.com/investor/next-wave-partners> · <https://www.unquote.com/uk/official-record/70666/next-wave-backs-expansion-of-secured-mail>
+
 ## NorthEdge
 
 <a id="northedge"></a>
@@ -606,6 +751,25 @@ Sources: <https://www.caplight.com/investor/mobeus-co> · <https://www.imap.com/
 | Accrol | Tissue manufacturing | £66m deal |  | unverified |
 
 Sources: <https://www.caplight.com/investor/northedge> · <https://ffnews.com/news/northedge-oak-engage-investment> · <https://privateequitylist.com/investors/northedge-capital-llp>
+
+## NVM Private Equity
+
+<a id="nvm-private-equity"></a>
+
+- **HQ / offices:** Newcastle (Newcastle)
+- **Website:** https://nvm.co.uk
+- **Strategy:** Regional lower-mid-market investor; manages Northern Venture Trust VCTs.
+- **Notes:** Mercia Asset Management acquired NVM in 2019; check whether NVM still operates as a separate brand.
+- **Last checked:** 2026-10-26
+
+| Company | Sector | Deal | Date | Status |
+|---|---|---|---|---|
+| Ben | Employee benefits software | Investment | 2025-12 | active |
+| Noted Aromas | Household fragrance products | Investment | 2025-12 | active |
+| Calibre Power Electronics | Power electronics / energy | Investment | 2025-04 | active |
+| Buoyant Upholstery | Furniture manufacturing | Exit | 2026-07 | exited |
+
+Sources: <https://pitchbook.com/profiles/investor/11258-11> · <https://privateequitylist.com/investors/nvm-private-equity-llp>
 
 ## Palatine Private Equity
 
@@ -773,6 +937,7 @@ Sources: <https://www.cbinsights.com/investor/rutland-partners> · <https://www.
 
 | Company | Sector | Deal | Date | Status |
 |---|---|---|---|---|
+| Zenix Aerospace | Aerostructures | Co-investor in Sullivan Street-led syndicate | 2025-12 | active |
 | Amber River | IFA consolidator | Investment |  | unverified |
 | LIKEZERO | Financial-services data software | Investment |  | unverified |
 | Climate Impact Partners | Voluntary carbon markets | Investment |  | unverified |
@@ -782,7 +947,7 @@ Sources: <https://www.cbinsights.com/investor/rutland-partners> · <https://www.
 | Voyage Care | Care services | Exit |  | exited |
 | Global Risk Partners | Insurance broking | Exit |  | exited |
 
-Sources: <https://www.souterinvestments.com/about-us> · <https://scottishfinancialreview.com/2022/11/21/souters-private-investments-beat-the-stock-market/> · <https://www.scottishfinancialnews.com/articles/souter-investments-continues-deal-making-with-trio-of-new-investments>
+Sources: <https://www.souterinvestments.com/about-us> · <https://scottishfinancialreview.com/2022/11/21/souters-private-investments-beat-the-stock-market/> · <https://www.scottishfinancialnews.com/articles/souter-investments-continues-deal-making-with-trio-of-new-investments> · <https://souterinvestments.com/portfolio/zenix-aerospace>
 
 ## Sovereign Capital Partners
 
@@ -798,6 +963,47 @@ Sources: <https://www.souterinvestments.com/about-us> · <https://scottishfinanc
 | Affinia | Accountancy | Platform; combining with UHY Hacker Young offices (Feb 2026) | 2026-02 | active |
 
 Sources: <https://www.cbinsights.com/investor/sovereign-capital>
+
+## Sullivan Street Partners
+
+<a id="sullivan-street-partners"></a>
+
+- **HQ / offices:** London (London)
+- **Website:** 
+- **Strategy:** Control buyouts of businesses with stakeholder, operational or structural complexity; carve-outs.
+- **Notes:** Upper end of scope: the Zenix carve-out was up to £200m EV and was syndicated (with Souter Investments).
+- **Last checked:** 2026-10-26
+
+| Company | Sector | Deal | Date | Status |
+|---|---|---|---|---|
+| Zenix Aerospace | Aerostructures (ex-Senior plc division) | Carve-out from Senior plc, up to £200m EV | 2025-12 | active |
+| Red7Marine | Marine engineering / offshore services | Investment | 2026-06 | active |
+| Bayberry | Healthcare services | Investment | 2026-05 | active |
+| Mi Hub | Corporate uniforms (Dimensions, Alexandra, Yaffy, Affinity) | Acquired from LDC | 2026-04 | active |
+| Wave Group | Inland surf parks | Development capital | 2024 | active |
+| Octavius Infrastructure | Infrastructure services | Exit | 2026-01 | exited |
+| Medica Packaging | Healthcare packaging | Sold to Harwood (MBO) | 2024-12 | exited |
+| Celsus Group | Healthcare | Exit | 2025-01 | exited |
+
+Sources: <https://pitchbook.com/profiles/investor/55550-26> · <https://www.steenassociates.com/news/zenix-sullivanstreet-senior> · <https://pipelineroad.com/news/20260427-sullivan-street-partners-acquires-mi-hub-from-ldc>
+
+## Trimountain Partners
+
+<a id="trimountain-partners"></a>
+
+- **HQ / offices:** London (London)
+- **Website:** 
+- **Strategy:** Growth equity and MBOs in consumer and services businesses; uses continuation vehicles.
+- **Notes:** Some directories list Boston as HQ; UK deals and advisers indicate London.
+- **Last checked:** 2026-10-26
+
+| Company | Sector | Deal | Date | Status |
+|---|---|---|---|---|
+| ABCA Systems | Fire, security & electrical compliance | Lead investor 2021; continuation vehicle 2025; bought RAAM Construction | 2025-08 | active |
+| Horizon Parking Group | Parking management | Lead investor | 2024-01 | active |
+| RED Driving School | Driver training | Buyout | 2019-04 | unverified |
+
+Sources: <https://mishcon.com/news/mishcon-private-equity-advises-trimountain-partners-on-its-significant-investment-into-abca-systems> · <https://www.mishcon.com/news/mishcon-private-equity-advises-trimountain-partners-on-continuation-vehicle-for-abca-fire-and-security> · <https://privateequityinfo.com/directory/private-equity-firm/trimountain-partners>
 
 ## Vespa Capital
 

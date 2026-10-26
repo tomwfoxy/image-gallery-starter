@@ -451,6 +451,13 @@
       ],
       "portfolio": [
         {
+          "name": "Churches Fire & Security",
+          "sector": "Fire & security services",
+          "deal": "Buy-and-build since 2017 (49 add-ons)",
+          "date": "2017",
+          "status": "active"
+        },
+        {
           "name": "Threatscape",
           "sector": "Cyber security consultancy (UK & Ireland)",
           "deal": "Buy-and-build investment",
@@ -488,7 +495,8 @@
       ],
       "sources": [
         "https://www.horizoncapital.co.uk/?p=7335",
-        "https://privateequitylist.com/investors/hor-cap-llp"
+        "https://privateequitylist.com/investors/hor-cap-llp",
+        "https://securitybusinessforsale.co.uk/market"
       ],
       "added": "2026-10-26",
       "last_checked": "2026-10-26"
@@ -933,10 +941,12 @@
       ],
       "sources": [
         "https://privateequitylist.com/investors/connection-capital-llp",
-        "https://www.cbinsights.com/company/connection-capital"
+        "https://www.cbinsights.com/company/connection-capital",
+        "https://www.connectioncapital.co.uk/news/defence-investing-beyond-the-headlines/"
       ],
       "added": "2026-10-26",
-      "last_checked": "2026-10-26"
+      "last_checked": "2026-10-26",
+      "notes": "Published a defence investment thesis (Aug 2026) focused on cyber, secure comms, advanced manufacturing and dual-use tech."
     },
     {
       "id": "foresight-group",
@@ -1005,10 +1015,12 @@
       "sources": [
         "https://foresight.group/news-insights/news/2026/foresight-private-equity-marks-strong-first-half-of-2026-with-11-investments-and-three-exits/",
         "https://www.scottishfinancialnews.com/articles/foresight-delivers-strong-h1-2026-with-11-new-investments-and-three-exits",
-        "https://www.uktech.news/news/foresight-group-marks-strong-h1-with-11-investments-and-three-exits-20260727"
+        "https://www.uktech.news/news/foresight-group-marks-strong-h1-with-11-investments-and-three-exits-20260727",
+        "https://foresight.group/strategies-funds/private-markets/security-resilience/"
       ],
       "added": "2026-10-26",
-      "last_checked": "2026-10-26"
+      "last_checked": "2026-10-26",
+      "notes": "Runs a dedicated Security & Resilience strategy (defence re-industrialisation, sovereign supply chains, dual-use tech)."
     },
     {
       "id": "bgf",
@@ -1461,6 +1473,13 @@
       ],
       "portfolio": [
         {
+          "name": "Security HQ",
+          "sector": "Managed cyber security (MDR/SOC)",
+          "deal": "Platform investment",
+          "date": "2026",
+          "status": "active"
+        },
+        {
           "name": "Optima Partners",
           "sector": "AI & data consultancy",
           "deal": "Investment",
@@ -1520,7 +1539,8 @@
       "sources": [
         "https://www.growthcapital.co.uk/?p=11257",
         "https://www.growthcapital.co.uk/portfolio-news/",
-        "https://www.privsource.com/acquisitions/deal/rJS7pZ"
+        "https://www.privsource.com/acquisitions/deal/rJS7pZ",
+        "https://www.financierworldwide.com/resurgent-uk-defence-ma-hits-record-pace"
       ],
       "added": "2026-10-26",
       "last_checked": "2026-10-26"
@@ -1991,6 +2011,13 @@
           "sector": "Managed cyber security",
           "deal": "Acquisition",
           "date": "2025-07",
+          "status": "active"
+        },
+        {
+          "name": "Xypher (Aristi, CyberCrowd, DigitalXRAID, Inta Forensics)",
+          "sector": "Cyber security platform",
+          "deal": "Acquired Aristi into the Xypher platform",
+          "date": "2025-12",
           "status": "active"
         },
         {
@@ -2482,6 +2509,13 @@
       ],
       "portfolio": [
         {
+          "name": "Zenix Aerospace",
+          "sector": "Aerostructures",
+          "deal": "Co-investor in Sullivan Street-led syndicate",
+          "date": "2025-12",
+          "status": "active"
+        },
+        {
           "name": "Amber River",
           "sector": "IFA consolidator",
           "deal": "Investment",
@@ -2541,7 +2575,8 @@
       "sources": [
         "https://www.souterinvestments.com/about-us",
         "https://scottishfinancialreview.com/2022/11/21/souters-private-investments-beat-the-stock-market/",
-        "https://www.scottishfinancialnews.com/articles/souter-investments-continues-deal-making-with-trio-of-new-investments"
+        "https://www.scottishfinancialnews.com/articles/souter-investments-continues-deal-making-with-trio-of-new-investments",
+        "https://souterinvestments.com/portfolio/zenix-aerospace"
       ],
       "added": "2026-10-26",
       "last_checked": "2026-10-26"
@@ -2730,6 +2765,590 @@
         "https://www.cbinsights.com/investor/rockpool-investments",
         "https://www.pitchbook.com/profiles/investor/59975-47",
         "https://mooreks.co.uk/insights/moore-kingston-smith-advises-rockpool-investments-on-acquisition-of-seen-group-limited/"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "harwood-private-equity",
+      "name": "Harwood Private Equity",
+      "hq": "London",
+      "website": "https://harwoodpe.co.uk",
+      "strategy": "Low-leverage buyouts and take-privates of undervalued UK companies valued up to ~£50m; part of Harwood Capital Management.",
+      "typical_cheque": "£5m-£30m",
+      "fund": "Harwood Private Equity V (EV £15m-£50m)",
+      "sectors": [
+        "Manufacturing",
+        "Precision engineering",
+        "TMT",
+        "Healthcare",
+        "Financial services"
+      ],
+      "portfolio": [
+        {
+          "name": "Frenkel Topping",
+          "sector": "Financial advice (personal injury)",
+          "deal": "£64m take-private agreed (completion to confirm)",
+          "date": "2025-10",
+          "status": "unverified"
+        },
+        {
+          "name": "Mr. Fothergill's Seeds",
+          "sector": "Horticulture",
+          "deal": "MBO via Harwood Private Capital (£20m OakNorth facility)",
+          "date": null,
+          "status": "unverified"
+        },
+        {
+          "name": "Crest Foods",
+          "sector": "Food",
+          "deal": "Fund V investment",
+          "date": null,
+          "status": "unverified"
+        },
+        {
+          "name": "SMT Corp.",
+          "sector": "Manufacturing",
+          "deal": "Fund V investment",
+          "date": null,
+          "status": "unverified"
+        },
+        {
+          "name": "Medica Packaging",
+          "sector": "Pharma & healthcare packaging",
+          "deal": "MBO, bought from Sullivan Street",
+          "date": "2024-12",
+          "status": "active"
+        }
+      ],
+      "sources": [
+        "https://www.cbinsights.com/investor/harwood-private-equity",
+        "https://pitchbook.com/profiles/fund/16872-58F",
+        "https://www.fespa.com/en/news-media/medica-packaging-confirms-management-buyout",
+        "https://oaknorth.co.uk/press/oaknorth-bank-funds-harwood-private-capital/"
+      ],
+      "offices": [
+        "London"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "alcuin-capital",
+      "name": "Alcuin Capital Partners",
+      "hq": "London",
+      "website": "https://www.alcuincapital.com",
+      "strategy": "Growth capital and MBOs in UK lower-mid-market companies; often minority, sometimes debt-free.",
+      "typical_cheque": "£2m-£30m",
+      "sectors": [
+        "Specialist manufacturing",
+        "Transport",
+        "Technology",
+        "Consumer",
+        "Business services"
+      ],
+      "portfolio": [
+        {
+          "name": "SF Engineering",
+          "sector": "Food processing & packaging line engineering",
+          "deal": "Investment",
+          "date": "2024-12",
+          "status": "active"
+        },
+        {
+          "name": "Mainprize Offshore",
+          "sector": "Offshore wind vessel services",
+          "deal": "Investment",
+          "date": "2024-02",
+          "status": "active"
+        },
+        {
+          "name": "Air Charter Service",
+          "sector": "Aviation charter",
+          "deal": "Minority growth stake",
+          "date": null,
+          "status": "unverified"
+        },
+        {
+          "name": "Servelec Controls",
+          "sector": "Industrial control systems",
+          "deal": "MBO from Servelec Group",
+          "date": "2018",
+          "status": "unverified"
+        },
+        {
+          "name": "Koh Group",
+          "sector": "Business services",
+          "deal": "Debt-free MBO, minority stake",
+          "date": null,
+          "status": "unverified"
+        }
+      ],
+      "sources": [
+        "https://www.cbinsights.com/investor/alcuin-capital-partners",
+        "https://www.unquote.com/uk/official-record/3012931/alcuin-invests-in-servelec-controls-mbo",
+        "https://www.aircargoweek.com/?p=11261"
+      ],
+      "offices": [
+        "London"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "nvm-private-equity",
+      "name": "NVM Private Equity",
+      "hq": "Newcastle",
+      "website": "https://nvm.co.uk",
+      "strategy": "Regional lower-mid-market investor; manages Northern Venture Trust VCTs.",
+      "typical_cheque": "£1m-£15m",
+      "sectors": [
+        "Industrials",
+        "Engineering",
+        "Technology",
+        "Consumer",
+        "Business services"
+      ],
+      "notes": "Mercia Asset Management acquired NVM in 2019; check whether NVM still operates as a separate brand.",
+      "portfolio": [
+        {
+          "name": "Ben",
+          "sector": "Employee benefits software",
+          "deal": "Investment",
+          "date": "2025-12",
+          "status": "active"
+        },
+        {
+          "name": "Noted Aromas",
+          "sector": "Household fragrance products",
+          "deal": "Investment",
+          "date": "2025-12",
+          "status": "active"
+        },
+        {
+          "name": "Calibre Power Electronics",
+          "sector": "Power electronics / energy",
+          "deal": "Investment",
+          "date": "2025-04",
+          "status": "active"
+        },
+        {
+          "name": "Buoyant Upholstery",
+          "sector": "Furniture manufacturing",
+          "deal": "Exit",
+          "date": "2026-07",
+          "status": "exited"
+        }
+      ],
+      "sources": [
+        "https://pitchbook.com/profiles/investor/11258-11",
+        "https://privateequitylist.com/investors/nvm-private-equity-llp"
+      ],
+      "offices": [
+        "Newcastle"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "sullivan-street-partners",
+      "name": "Sullivan Street Partners",
+      "hq": "London",
+      "website": "",
+      "strategy": "Control buyouts of businesses with stakeholder, operational or structural complexity; carve-outs.",
+      "typical_cheque": "£10m-£50m",
+      "sectors": [
+        "Aerospace & defence",
+        "Industrials",
+        "Consumer",
+        "Healthcare",
+        "Business services",
+        "Facilities"
+      ],
+      "notes": "Upper end of scope: the Zenix carve-out was up to £200m EV and was syndicated (with Souter Investments).",
+      "portfolio": [
+        {
+          "name": "Zenix Aerospace",
+          "sector": "Aerostructures (ex-Senior plc division)",
+          "deal": "Carve-out from Senior plc, up to £200m EV",
+          "date": "2025-12",
+          "status": "active"
+        },
+        {
+          "name": "Red7Marine",
+          "sector": "Marine engineering / offshore services",
+          "deal": "Investment",
+          "date": "2026-06",
+          "status": "active"
+        },
+        {
+          "name": "Bayberry",
+          "sector": "Healthcare services",
+          "deal": "Investment",
+          "date": "2026-05",
+          "status": "active"
+        },
+        {
+          "name": "Mi Hub",
+          "sector": "Corporate uniforms (Dimensions, Alexandra, Yaffy, Affinity)",
+          "deal": "Acquired from LDC",
+          "date": "2026-04",
+          "status": "active"
+        },
+        {
+          "name": "Wave Group",
+          "sector": "Inland surf parks",
+          "deal": "Development capital",
+          "date": "2024",
+          "status": "active"
+        },
+        {
+          "name": "Octavius Infrastructure",
+          "sector": "Infrastructure services",
+          "deal": "Exit",
+          "date": "2026-01",
+          "status": "exited"
+        },
+        {
+          "name": "Medica Packaging",
+          "sector": "Healthcare packaging",
+          "deal": "Sold to Harwood (MBO)",
+          "date": "2024-12",
+          "status": "exited"
+        },
+        {
+          "name": "Celsus Group",
+          "sector": "Healthcare",
+          "deal": "Exit",
+          "date": "2025-01",
+          "status": "exited"
+        }
+      ],
+      "sources": [
+        "https://pitchbook.com/profiles/investor/55550-26",
+        "https://www.steenassociates.com/news/zenix-sullivanstreet-senior",
+        "https://pipelineroad.com/news/20260427-sullivan-street-partners-acquires-mi-hub-from-ldc"
+      ],
+      "offices": [
+        "London"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "inspirit-capital",
+      "name": "Inspirit Capital",
+      "hq": "London",
+      "website": "",
+      "strategy": "Corporate carve-outs of non-core divisions from larger groups.",
+      "typical_cheque": "£5m-£30m",
+      "sectors": [
+        "Industrial distribution",
+        "Energy",
+        "Education",
+        "Business services"
+      ],
+      "portfolio": [
+        {
+          "name": "Kaplan Languages Group",
+          "sector": "Language education",
+          "deal": "Carve-out from Kaplan",
+          "date": "2026-05",
+          "status": "active"
+        },
+        {
+          "name": "Watson Fuels",
+          "sector": "Fuel distribution",
+          "deal": "Carve-out from World Kinect (£75m facility)",
+          "date": "2025-04",
+          "status": "active"
+        },
+        {
+          "name": "mthree / Peregrine",
+          "sector": "Tech talent & consultancy",
+          "deal": "Carve-out from Wiley (2024); merged with Peregrine Dec 2025",
+          "date": "2025-12",
+          "status": "active"
+        },
+        {
+          "name": "Spaldings",
+          "sector": "Agricultural parts distribution",
+          "deal": "Sold to Invicta Holdings",
+          "date": "2025-09",
+          "status": "exited"
+        }
+      ],
+      "sources": [
+        "https://pulse2.com/inspirit-capital-completes-acquisition-of-kaplan-languages-group/amp/",
+        "https://finder.techleap.nl/news/feed/inspirit-capital-acquires-watson-fuels-75m-deal",
+        "https://www.oaklins.com/bg/en/deals/111245/",
+        "https://www.cbinsights.com/company/inspirit-capital"
+      ],
+      "offices": [
+        "London"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "next-wave-partners",
+      "name": "Next Wave Partners",
+      "hq": "London",
+      "website": "",
+      "strategy": "Growth capital for UK and Northern European lower-mid-market SMEs.",
+      "typical_cheque": "£2m-£20m",
+      "sectors": [
+        "Manufacturing",
+        "Building products",
+        "Business services"
+      ],
+      "portfolio": [
+        {
+          "name": "Roof-Maker",
+          "sector": "Rooflight & skylight manufacturing",
+          "deal": "First investment from new fund",
+          "date": null,
+          "status": "unverified"
+        },
+        {
+          "name": "Clearway Group",
+          "sector": "Site security & property services",
+          "deal": "Lead investor",
+          "date": "2021-09",
+          "status": "unverified"
+        },
+        {
+          "name": "Secured Mail",
+          "sector": "Mail security solutions",
+          "deal": "Expansion capital",
+          "date": null,
+          "status": "unverified"
+        }
+      ],
+      "sources": [
+        "https://www.lincolninternational.com/transactions/next-wave-partners-acquired-roof-maker/",
+        "https://www.cbinsights.com/investor/next-wave-partners",
+        "https://www.unquote.com/uk/official-record/70666/next-wave-backs-expansion-of-secured-mail"
+      ],
+      "offices": [
+        "London"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "hanover-investors",
+      "name": "Hanover Investors",
+      "hq": "London",
+      "website": "",
+      "strategy": "Active-equity investor in UK small caps (public and private), often taking control.",
+      "typical_cheque": "£5m-£30m",
+      "fund": "Hanover Active Equity Fund III (£150m second close)",
+      "sectors": [
+        "Defence & aerospace",
+        "Precision engineering",
+        "Energy distribution",
+        "Business services"
+      ],
+      "portfolio": [
+        {
+          "name": "Llanelec Precision Engineering",
+          "sector": "Precision-machined defence & aerospace components",
+          "deal": "Fund III acquisition; bought Kigass Aero Components (Aug 2026)",
+          "date": "2026-08",
+          "status": "active"
+        },
+        {
+          "name": "New Era Energy",
+          "sector": "Liquid fuels distribution & environmental services",
+          "deal": "Fund III significant investment",
+          "date": "2024-02",
+          "status": "active"
+        }
+      ],
+      "sources": [
+        "https://www.privsource.com/acquisitions/deal/MySZ9v",
+        "https://www.midlandsaerospace.org.uk/news/Kigass-Aug26",
+        "https://www.privateequitywire.co.uk/?p=97488"
+      ],
+      "offices": [
+        "London"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "trimountain-partners",
+      "name": "Trimountain Partners",
+      "hq": "London",
+      "website": "",
+      "strategy": "Growth equity and MBOs in consumer and services businesses; uses continuation vehicles.",
+      "typical_cheque": "£5m-£20m",
+      "sectors": [
+        "Fire & security",
+        "Facilities management",
+        "Consumer",
+        "Education"
+      ],
+      "notes": "Some directories list Boston as HQ; UK deals and advisers indicate London.",
+      "portfolio": [
+        {
+          "name": "ABCA Systems",
+          "sector": "Fire, security & electrical compliance",
+          "deal": "Lead investor 2021; continuation vehicle 2025; bought RAAM Construction",
+          "date": "2025-08",
+          "status": "active"
+        },
+        {
+          "name": "Horizon Parking Group",
+          "sector": "Parking management",
+          "deal": "Lead investor",
+          "date": "2024-01",
+          "status": "active"
+        },
+        {
+          "name": "RED Driving School",
+          "sector": "Driver training",
+          "deal": "Buyout",
+          "date": "2019-04",
+          "status": "unverified"
+        }
+      ],
+      "sources": [
+        "https://mishcon.com/news/mishcon-private-equity-advises-trimountain-partners-on-its-significant-investment-into-abca-systems",
+        "https://www.mishcon.com/news/mishcon-private-equity-advises-trimountain-partners-on-continuation-vehicle-for-abca-fire-and-security",
+        "https://privateequityinfo.com/directory/private-equity-firm/trimountain-partners"
+      ],
+      "offices": [
+        "London"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "fordhouse-equity",
+      "name": "Fordhouse Equity",
+      "hq": "London",
+      "website": "",
+      "strategy": "Acquires and develops UK SMEs; buy-and-build platforms.",
+      "typical_cheque": "£1m-£10m",
+      "sectors": [
+        "Aerospace & defence",
+        "Accountancy",
+        "IT services",
+        "Telecoms",
+        "Software"
+      ],
+      "portfolio": [
+        {
+          "name": "Automatic Industrial Machines (AIM)",
+          "sector": "Aerospace & defence machining (Airbus, BAE, GKN customers)",
+          "deal": "Platform for UK consolidation",
+          "date": "2026-04",
+          "status": "active"
+        },
+        {
+          "name": "Wilson Partners",
+          "sector": "Accountancy",
+          "deal": "Equity partner (with Triple Point credit)",
+          "date": "2025-10",
+          "status": "active"
+        },
+        {
+          "name": "Peplows",
+          "sector": "Accountancy",
+          "deal": "Investment",
+          "date": null,
+          "status": "unverified"
+        },
+        {
+          "name": "Afford Bond",
+          "sector": "Accountancy",
+          "deal": "Investment",
+          "date": null,
+          "status": "unverified"
+        },
+        {
+          "name": "Lindeyer Francis Ferguson",
+          "sector": "Accountancy",
+          "deal": "Investment",
+          "date": null,
+          "status": "unverified"
+        },
+        {
+          "name": "Atmos Consulting",
+          "sector": "Environmental consultancy",
+          "deal": "Exit",
+          "date": "2025-10",
+          "status": "exited"
+        },
+        {
+          "name": "Zenzero Solutions",
+          "sector": "IT managed services",
+          "deal": "Sold to Macquarie (via Fordhouse Capital LLP)",
+          "date": "2023",
+          "status": "exited"
+        }
+      ],
+      "sources": [
+        "https://pitchbook.com/profiles/investor/115214-05",
+        "https://www.cbinsights.com/investor/fordhouse-equity",
+        "https://www.insidermedia.com/news/south-west/precision-engineering-firm-acquired-by-private-equity-backed-investment-group"
+      ],
+      "offices": [
+        "London"
+      ],
+      "added": "2026-10-26",
+      "last_checked": "2026-10-26"
+    },
+    {
+      "id": "ldc",
+      "name": "LDC",
+      "hq": "London",
+      "offices": [
+        "London",
+        "Birmingham",
+        "Bristol",
+        "Cambridge",
+        "Leeds",
+        "Manchester",
+        "Newcastle",
+        "Nottingham",
+        "Reading",
+        "Glasgow"
+      ],
+      "website": "https://www.ldc.co.uk",
+      "strategy": "Lloyds Banking Group's PE arm; regional buyouts and growth deals.",
+      "typical_cheque": "£10m-£50m (initial)",
+      "fund": "Balance-sheet backed; ~£400m a year",
+      "sectors": [
+        "Aerospace & defence",
+        "Industrials",
+        "Business services",
+        "Technology",
+        "Healthcare"
+      ],
+      "notes": "Upper end of scope; large regional portfolio, only defence-relevant and recent deals listed.",
+      "portfolio": [
+        {
+          "name": "Eagle Eye Innovations",
+          "sector": "Drone training, operations & consulting",
+          "deal": "Investment backing management",
+          "date": "2026-02",
+          "status": "active"
+        },
+        {
+          "name": "Mi Hub",
+          "sector": "Corporate uniforms",
+          "deal": "Sold to Sullivan Street",
+          "date": "2026-04",
+          "status": "exited"
+        }
+      ],
+      "sources": [
+        "https://www.ldc.co.uk/portfolio/eagle-eye-innovations-scaling-drone-services/",
+        "https://businesscloud.co.uk/news/eagle-eye-innovations-secures-private-equity-investment/",
+        "https://altss.com/profile/ldc"
       ],
       "added": "2026-10-26",
       "last_checked": "2026-10-26"

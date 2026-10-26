@@ -1,4 +1,9 @@
 firm,firm_hq,typical_cheque,company,sector,deal,date,status
+Alcuin Capital Partners,London,£2m-£30m,SF Engineering,Food processing & packaging line engineering,Investment,2024-12,active
+Alcuin Capital Partners,London,£2m-£30m,Mainprize Offshore,Offshore wind vessel services,Investment,2024-02,active
+Alcuin Capital Partners,London,£2m-£30m,Air Charter Service,Aviation charter,Minority growth stake,,unverified
+Alcuin Capital Partners,London,£2m-£30m,Servelec Controls,Industrial control systems,MBO from Servelec Group,2018,unverified
+Alcuin Capital Partners,London,£2m-£30m,Koh Group,Business services,"Debt-free MBO, minority stake",,unverified
 Aliter Capital,London,up to £20m,BBS Law,Legal services,Investment (Nov 2024); bolt-on Carter Bond (Sep 2025),2024-11,active
 Aliter Capital,London,up to £20m,TXP,Technology services,"Platform; bolt-ons Vigil (Sep 2025), Metatech",,active
 Aliter Capital,London,up to £20m,Orwins,Legal services,Platform; invested in Clarkslegal (Feb 2026),,unverified
@@ -85,6 +90,13 @@ Endless,Leeds,£1m-£100m+,Antler,Luggage,Investment,,unverified
 Endless,Leeds,£1m-£100m+,American Golf,Golf retail,Sold to Peter Jones-led group,2026-02,exited
 Endless,Leeds,£1m-£100m+,EVO Business Supplies,Office supplies,Exit,2025,exited
 Endless,Leeds,£1m-£100m+,Karnova Food Group,Food,Exit,2025,exited
+Fordhouse Equity,London,£1m-£10m,Automatic Industrial Machines (AIM),"Aerospace & defence machining (Airbus, BAE, GKN customers)",Platform for UK consolidation,2026-04,active
+Fordhouse Equity,London,£1m-£10m,Wilson Partners,Accountancy,Equity partner (with Triple Point credit),2025-10,active
+Fordhouse Equity,London,£1m-£10m,Peplows,Accountancy,Investment,,unverified
+Fordhouse Equity,London,£1m-£10m,Afford Bond,Accountancy,Investment,,unverified
+Fordhouse Equity,London,£1m-£10m,Lindeyer Francis Ferguson,Accountancy,Investment,,unverified
+Fordhouse Equity,London,£1m-£10m,Atmos Consulting,Environmental consultancy,Exit,2025-10,exited
+Fordhouse Equity,London,£1m-£10m,Zenzero Solutions,IT managed services,Sold to Macquarie (via Fordhouse Capital LLP),2023,exited
 Foresight Group (Private Equity),London,£1m-£15m,Federal,Technology,New investment,2026,active
 Foresight Group (Private Equity),London,£1m-£15m,SAMP Technology,Technology,New investment,2026,active
 Foresight Group (Private Equity),London,£1m-£15m,Pinocchio's Nurseries,Childcare,New investment,2026,active
@@ -93,6 +105,7 @@ Foresight Group (Private Equity),London,£1m-£15m,Fieldway,Built-environment se
 Gresham House (Private Equity),London,£1m-£25m,Ask Bosco,Marketing analytics software,£4.1m investment,2025-08,active
 Gresham House (Private Equity),London,£1m-£25m,Spinners,Competitive socialising,£4m investment,2025-08,active
 Gresham House (Private Equity),London,£1m-£25m,Panthera Biopartners,Clinical research sites,Exit,2025-08,exited
+Growth Capital Partners (GCP),London,£5m-£40m,Security HQ,Managed cyber security (MDR/SOC),Platform investment,2026,active
 Growth Capital Partners (GCP),London,£5m-£40m,Optima Partners,AI & data consultancy,Investment,2025-12,active
 Growth Capital Partners (GCP),London,£5m-£40m,Strata FSC,Financial services consultancy (Aladdin),Investment,2025-12,active
 Growth Capital Partners (GCP),London,£5m-£40m,Nurtur,Estate-agency software & data,Investment,2025-07,active
@@ -104,6 +117,14 @@ Growth Capital Partners (GCP),London,£5m-£40m,Hippo,Digital services,Realised,
 Hamilton Bradshaw,London,£1m-£10m,Timothy James Consulting,Senior recruitment,Acquisition with management,,unverified
 Hamilton Bradshaw,London,£1m-£10m,POD Management,Business services,Investment,,unverified
 Hamilton Bradshaw,London,£1m-£10m,Beaumont Bailey,Recruitment,Investment,,unverified
+Hanover Investors,London,£5m-£30m,Llanelec Precision Engineering,Precision-machined defence & aerospace components,Fund III acquisition; bought Kigass Aero Components (Aug 2026),2026-08,active
+Hanover Investors,London,£5m-£30m,New Era Energy,Liquid fuels distribution & environmental services,Fund III significant investment,2024-02,active
+Harwood Private Equity,London,£5m-£30m,Frenkel Topping,Financial advice (personal injury),£64m take-private agreed (completion to confirm),2025-10,unverified
+Harwood Private Equity,London,£5m-£30m,Mr. Fothergill's Seeds,Horticulture,MBO via Harwood Private Capital (£20m OakNorth facility),,unverified
+Harwood Private Equity,London,£5m-£30m,Crest Foods,Food,Fund V investment,,unverified
+Harwood Private Equity,London,£5m-£30m,SMT Corp.,Manufacturing,Fund V investment,,unverified
+Harwood Private Equity,London,£5m-£30m,Medica Packaging,Pharma & healthcare packaging,"MBO, bought from Sullivan Street",2024-12,active
+Horizon Capital,London,£5m-£50m,Churches Fire & Security,Fire & security services,Buy-and-build since 2017 (49 add-ons),2017,active
 Horizon Capital,London,£5m-£50m,Threatscape,Cyber security consultancy (UK & Ireland),Buy-and-build investment,2026-03,active
 Horizon Capital,London,£5m-£50m,ERA Group,Cost-reduction consultancy,"Majority stake, £70m commitment",2025-07,active
 Horizon Capital,London,£5m-£50m,Turnmill,Financial-services events,Buy-and-build,,active
@@ -118,6 +139,10 @@ Imbiba,London,£2m-£10m,Clays,Competitive socialising,Investment,,unverified
 Imbiba,London,£2m-£10m,Farmer J,Restaurants,Investment,,unverified
 Imbiba,London,£2m-£10m,NQ64,Arcade bars,Investment,,unverified
 Imbiba,London,£2m-£10m,Albion & East,Hospitality,Exit,2025-10,exited
+Inspirit Capital,London,£5m-£30m,Kaplan Languages Group,Language education,Carve-out from Kaplan,2026-05,active
+Inspirit Capital,London,£5m-£30m,Watson Fuels,Fuel distribution,Carve-out from World Kinect (£75m facility),2025-04,active
+Inspirit Capital,London,£5m-£30m,mthree / Peregrine,Tech talent & consultancy,Carve-out from Wiley (2024); merged with Peregrine Dec 2025,2025-12,active
+Inspirit Capital,London,£5m-£30m,Spaldings,Agricultural parts distribution,Sold to Invicta Holdings,2025-09,exited
 Kester Capital,London,£5m-£25m,Nutritics,Food & nutrition software,Growth equity (lead),2026-01,active
 Kester Capital,London,£5m-£25m,Addresscloud,Geocoding / property data,Investment,2025-09,active
 Kester Capital,London,£5m-£25m,Re-flow,Field service management software,Investment (5th from Fund III),2025-03,active
@@ -126,7 +151,10 @@ Kester Capital,London,£5m-£25m,The Boundary,Real-estate visualisation / digita
 Kester Capital,London,£5m-£25m,DC Byte,Data-centre market intelligence,Investment,,unverified
 Kester Capital,London,£5m-£25m,Vixio,Regulatory intelligence,Investment,,unverified
 Kester Capital,London,£5m-£25m,Atec,Technology,Exit (>4x),,exited
+LDC,London,£10m-£50m (initial),Eagle Eye Innovations,"Drone training, operations & consulting",Investment backing management,2026-02,active
+LDC,London,£10m-£50m (initial),Mi Hub,Corporate uniforms,Sold to Sullivan Street,2026-04,exited
 Limerston Capital,London,£10m-£40m,DigitalXRAID,Managed cyber security,Acquisition,2025-07,active
+Limerston Capital,London,£10m-£40m,"Xypher (Aristi, CyberCrowd, DigitalXRAID, Inta Forensics)",Cyber security platform,Acquired Aristi into the Xypher platform,2025-12,active
 Limerston Capital,London,£10m-£40m,Largo Leisure,Holiday parks (Scotland),First Fund II platform,,active
 Limerston Capital,London,£10m-£40m,Concept Life Sciences,Drug discovery CRO/CDMO,Fund II acquisition,,active
 Limerston Capital,London,£10m-£40m,Astoriom,Pharma stability storage,Fund II investment,,active
@@ -155,6 +183,9 @@ Mobeus Equity Partners,London,£2m-£15m,Big Potato Games,Party / board games,£
 Mobeus Equity Partners,London,£2m-£15m,Revive!,Vehicle repair franchise,Investment,,unverified
 Mobeus Equity Partners,London,£2m-£15m,Intralink Group,International market-entry consultancy,Investment,2023-07,unverified
 Mobeus Equity Partners,London,£2m-£15m,MyTutor,Online tutoring,Investment,,unverified
+Next Wave Partners,London,£2m-£20m,Roof-Maker,Rooflight & skylight manufacturing,First investment from new fund,,unverified
+Next Wave Partners,London,£2m-£20m,Clearway Group,Site security & property services,Lead investor,2021-09,unverified
+Next Wave Partners,London,£2m-£20m,Secured Mail,Mail security solutions,Expansion capital,,unverified
 NorthEdge,Manchester,£10m-£50m,Oak Engage,Employee engagement software,Investment,2025-07,active
 NorthEdge,Manchester,£10m-£50m,Latus Group,Healthcare services,Lead investor,2024-07,active
 NorthEdge,Manchester,£10m-£50m,Rouken Bio,Life-science research services,Investment,2023-11,active
@@ -162,6 +193,10 @@ NorthEdge,Manchester,£10m-£50m,CloudM,SaaS / data migration,Investment,2023-01
 NorthEdge,Manchester,£10m-£50m,Friend MTS,Anti-piracy / content protection,Investment,2022-09,unverified
 NorthEdge,Manchester,£10m-£50m,Cezanne HR,HR software,Investment,,unverified
 NorthEdge,Manchester,£10m-£50m,Accrol,Tissue manufacturing,£66m deal,,unverified
+NVM Private Equity,Newcastle,£1m-£15m,Ben,Employee benefits software,Investment,2025-12,active
+NVM Private Equity,Newcastle,£1m-£15m,Noted Aromas,Household fragrance products,Investment,2025-12,active
+NVM Private Equity,Newcastle,£1m-£15m,Calibre Power Electronics,Power electronics / energy,Investment,2025-04,active
+NVM Private Equity,Newcastle,£1m-£15m,Buoyant Upholstery,Furniture manufacturing,Exit,2026-07,exited
 Palatine Private Equity,Manchester,£10m-£40m,Riches & Co,Accountancy,Investment,2026-07,active
 Palatine Private Equity,Manchester,£10m-£40m,fulfilmentcrowd,E-commerce fulfilment / logistics tech,Majority stake (first Fund V deal),2025-06,active
 Palatine Private Equity,Manchester,£10m-£40m,Patchworks,Integration software (iPaaS),Co-investor,2025-10,active
@@ -202,6 +237,7 @@ Rutland Partners,London,£10m-£50m,The Music Group,Musical instruments retail,I
 Rutland Partners,London,£10m-£50m,Wolstenholme,Metallic pigments,Investment,,unverified
 Rutland Partners,London,£10m-£50m,Advantage Healthcare Group,Healthcare staffing,Investment,,unverified
 Rutland Partners,London,£10m-£50m,CeDo,Household consumer products,Sold to Stratco Investments,,exited
+Souter Investments,Edinburgh,£2m-£20m,Zenix Aerospace,Aerostructures,Co-investor in Sullivan Street-led syndicate,2025-12,active
 Souter Investments,Edinburgh,£2m-£20m,Amber River,IFA consolidator,Investment,,unverified
 Souter Investments,Edinburgh,£2m-£20m,LIKEZERO,Financial-services data software,Investment,,unverified
 Souter Investments,Edinburgh,£2m-£20m,Climate Impact Partners,Voluntary carbon markets,Investment,,unverified
@@ -211,6 +247,17 @@ Souter Investments,Edinburgh,£2m-£20m,VPS,Marine fuel testing,Co-investment wi
 Souter Investments,Edinburgh,£2m-£20m,Voyage Care,Care services,Exit,,exited
 Souter Investments,Edinburgh,£2m-£20m,Global Risk Partners,Insurance broking,Exit,,exited
 Sovereign Capital Partners,London,£10m-£50m,Affinia,Accountancy,Platform; combining with UHY Hacker Young offices (Feb 2026),2026-02,active
+Sullivan Street Partners,London,£10m-£50m,Zenix Aerospace,Aerostructures (ex-Senior plc division),"Carve-out from Senior plc, up to £200m EV",2025-12,active
+Sullivan Street Partners,London,£10m-£50m,Red7Marine,Marine engineering / offshore services,Investment,2026-06,active
+Sullivan Street Partners,London,£10m-£50m,Bayberry,Healthcare services,Investment,2026-05,active
+Sullivan Street Partners,London,£10m-£50m,Mi Hub,"Corporate uniforms (Dimensions, Alexandra, Yaffy, Affinity)",Acquired from LDC,2026-04,active
+Sullivan Street Partners,London,£10m-£50m,Wave Group,Inland surf parks,Development capital,2024,active
+Sullivan Street Partners,London,£10m-£50m,Octavius Infrastructure,Infrastructure services,Exit,2026-01,exited
+Sullivan Street Partners,London,£10m-£50m,Medica Packaging,Healthcare packaging,Sold to Harwood (MBO),2024-12,exited
+Sullivan Street Partners,London,£10m-£50m,Celsus Group,Healthcare,Exit,2025-01,exited
+Trimountain Partners,London,£5m-£20m,ABCA Systems,"Fire, security & electrical compliance",Lead investor 2021; continuation vehicle 2025; bought RAAM Construction,2025-08,active
+Trimountain Partners,London,£5m-£20m,Horizon Parking Group,Parking management,Lead investor,2024-01,active
+Trimountain Partners,London,£5m-£20m,RED Driving School,Driver training,Buyout,2019-04,unverified
 Vespa Capital,London,£5m-£20m,Right Legal Group,Wills & probate law,Growth investment,2024-02,active
 Vespa Capital,London,£5m-£20m,Eserv,3D digital-twin software,Minority growth,2022-12,unverified
 Vespa Capital,London,£5m-£20m,Digital Technology Advisory Group (DTAG),"Research & consulting (2CV, The Value Engineers, Signal)",Growth investment,2022-01,unverified
